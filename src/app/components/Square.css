@@ -1,0 +1,18 @@
+.square-container {
+    display: grid;
+    grid-template-columns: repeat(3, 0fr);
+    margin-left: 30%;
+    max-width: 500px;
+    margin-top: 3rem;
+}
+
+.btns {
+    border: 2px solid black;
+    width: 4rem;
+    height: 4rem;
+    padding: 1rem;   
+}
+
+.btn {
+    margin-left: 40%;
+}
